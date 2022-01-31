@@ -1,0 +1,18 @@
+div.gallery {
+  display:flex;
+  margin:5px;
+  float: left;
+  border: 2px solid black;
+
+}
+
+div.gallery img {
+  width: 100%;
+}
+
+div.gallery img:hover{
+
+opacity: 0.5;
+border: 2px solid red;
+}
+
